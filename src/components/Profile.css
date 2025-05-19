@@ -1,0 +1,8 @@
+.profile-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  text-align: center;
+}
